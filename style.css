@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+}
+.card{
+    background-color: white;
+    height: 320px;
+    width: 200px;
+    border-radius: 5px;
+    margin: auto;
+}
+.card-top{
+    color:red;
+    font-size: 40px;
+    margin-left: 5px;
+}
+.card-botom{
+    text-align: right;
+    font-size: 40px;
+    margin-top: 70px;
+    margin-right: 5px;
+    
+}
+.numero{
+margin-top: 70px;
+text-align: center;
+font-size: 40px;
+font-weight: 600;
+}
